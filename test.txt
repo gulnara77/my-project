@@ -1,0 +1,8 @@
+echo "hi,Brol"
+cd \
+md testFolder
+cd testFolder
+dir
+echo. "Hi,Brol">NonEmptyfile.txt
+dir
+more nonEmptyfile.txt
